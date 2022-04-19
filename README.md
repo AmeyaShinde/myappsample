@@ -1,2 +1,2 @@
 # MyApp
-This is my appgit
+This is my app
